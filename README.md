@@ -1,4 +1,4 @@
-# Student Grouping Application — Fagfordeling
+# Groupr - Student Grouping Application (Prototype)
 
 A Python desktop application that randomly generates students and classes, assigns enrollments, and intelligently groups students together based on how many classes they share. Results are visualized through an interactive Tkinter GUI with embedded Matplotlib charts.
 
